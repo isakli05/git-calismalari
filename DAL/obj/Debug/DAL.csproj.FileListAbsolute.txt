@@ -1,0 +1,12 @@
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\bin\Debug\DAL.dll.config
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\bin\Debug\DAL.dll
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\bin\Debug\DAL.pdb
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\bin\Debug\EntityFramework.dll
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\bin\Debug\EntityFramework.xml
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\obj\Debug\DAL.dll
+C:\Users\gizli\source\repos\MVC_EF-CF-CRUD\DAL\obj\Debug\DAL.pdb
