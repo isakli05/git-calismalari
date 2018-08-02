@@ -1,2 +1,0 @@
-git deneme dosya ekleme
-git deneme degisiklik komutu
