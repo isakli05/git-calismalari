@@ -1,1 +1,0 @@
-Git diff komutu degisiklik takibi
